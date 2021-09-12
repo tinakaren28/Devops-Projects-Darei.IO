@@ -17,7 +17,7 @@ I installed mysql using the command `sudo apt install mysql-server`
 
 ![Screenshot 2021-09-11 205059](https://user-images.githubusercontent.com/67397926/132967137-a66ea21d-2e31-42d2-aa9c-1e887522cfb0.png)
 
-## INSTSLLING PHP
+## INSTALLING PHP
 I installed the php package, php-mysql, and a PHP module by running
 To install these 3 packages at once, I ran `sudo apt install php libapache2-mod-php php-mysql`
 To confirm my PHP version I ran`php -v`
